@@ -1,7 +1,7 @@
 ---
 title: autotestK2H65j
 description: autotestyl8hm4_5/30/2019 11:44:54 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 369
 author_profile: https://github.com/ksAutotests
