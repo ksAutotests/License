@@ -1,7 +1,7 @@
 ---
 title: autotest0B8T4D
 description: autotestv02p88_6/18/2019 8:21:39 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 714
 author_profile: https://github.com/ksAutotests
