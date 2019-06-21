@@ -1,7 +1,7 @@
 ---
 title: autotestJ8C8X5
 description: autotest7hH537_6/21/2019 3:55:23 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 950
 author_profile: https://github.com/ksAutotests
