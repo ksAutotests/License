@@ -1,7 +1,7 @@
 ---
 title: autotestS8y166
 description: autotestw0H22c_6/23/2019 3:34:22 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 826
 author_profile: https://github.com/ksAutotests
