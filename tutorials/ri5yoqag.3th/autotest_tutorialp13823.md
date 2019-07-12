@@ -1,7 +1,7 @@
 ---
 title: autotest51myBl
 description: autotest4kLDiJ_7/12/2019 4:23:17 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 849
 author_profile: https://github.com/ksAutotests
