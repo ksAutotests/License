@@ -1,7 +1,7 @@
 ---
 title: autotest7Z5mjP
 description: autotest8uvrG4_7/15/2019 8:31:01 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 557
 author_profile: https://github.com/ksAutotests
