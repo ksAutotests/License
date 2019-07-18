@@ -1,7 +1,7 @@
 ---
 title: autotest0cFqt1
 description: autotestyzSt34_7/18/2019 12:43:37 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 253
 author_profile: https://github.com/ksAutotests
