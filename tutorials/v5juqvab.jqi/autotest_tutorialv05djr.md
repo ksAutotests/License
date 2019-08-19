@@ -1,7 +1,7 @@
 ---
 title: autotest2U6l20
 description: autotestE3SPI7_8/19/2019 3:21:07 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 984
 author_profile: https://github.com/ksAutotests
