@@ -1,7 +1,7 @@
 ---
 title: autotest17d8zB
 description: autotestO2L0Y8_8/27/2019 10:16:22 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 228
 author_profile: https://github.com/ksAutotests
