@@ -1,7 +1,7 @@
 ---
 title: autotestt1gSs4
 description: autotest11P7R5_8/27/2019 2:45:07 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 262
 author_profile: https://github.com/ksAutotests
