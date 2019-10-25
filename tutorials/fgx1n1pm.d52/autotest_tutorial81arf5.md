@@ -1,7 +1,7 @@
 ---
 title: autotestZ3wG7o
 description: autotest5GHyt8_10/25/2019 2:56:04 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 339
 author_profile: https://github.com/ksAutotests
