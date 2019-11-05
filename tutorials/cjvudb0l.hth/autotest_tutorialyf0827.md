@@ -1,7 +1,7 @@
 ---
 title: autotest46174j
 description: autotestGq0K0b_11/5/2019 10:01:37 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 784
 author_profile: https://github.com/ksAutotests
