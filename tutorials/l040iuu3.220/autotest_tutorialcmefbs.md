@@ -1,7 +1,7 @@
 ---
 title: autotestt4Jr58
 description: autotestsva236_11/6/2019 5:50:06 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 761
 author_profile: https://github.com/ksAutotests
