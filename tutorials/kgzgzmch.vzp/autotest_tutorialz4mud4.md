@@ -1,7 +1,7 @@
 ---
 title: autotest538164
 description: autotestG1q4jz_11/6/2019 9:59:24 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 650
 author_profile: https://github.com/ksAutotests
