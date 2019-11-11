@@ -1,7 +1,7 @@
 ---
 title: autotestX302JB
 description: autotest32ms80_11/11/2019 6:38:51 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 884
 author_profile: https://github.com/ksAutotests
