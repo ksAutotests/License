@@ -1,7 +1,7 @@
 ---
 title: autotestXW67jo
 description: autotest5O1RJ8_11/18/2019 12:15:26 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 625
 author_profile: https://github.com/ksAutotests
