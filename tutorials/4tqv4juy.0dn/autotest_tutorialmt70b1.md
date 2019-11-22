@@ -1,7 +1,7 @@
 ---
 title: autotest1212tt
 description: autotest3p8t4T_11/22/2019 11:28:59 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 304
 author_profile: https://github.com/ksAutotests
