@@ -1,7 +1,7 @@
 ---
 title: autotest31w4r8
 description: autotestw2YJU4_11/23/2019 11:37:31 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 521
 author_profile: https://github.com/ksAutotests
