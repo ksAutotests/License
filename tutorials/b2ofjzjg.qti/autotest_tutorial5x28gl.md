@@ -1,7 +1,7 @@
 ---
 title: autotest816MQ3
 description: autotest3Js54k_11/29/2019 11:34:20 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 668
 author_profile: https://github.com/ksAutotests
