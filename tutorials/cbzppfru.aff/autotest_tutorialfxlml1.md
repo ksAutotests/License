@@ -1,7 +1,7 @@
 ---
 title: autotest1rva38
 description: autotestTYi6vc_12/18/2019 10:26:56 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 139
 author_profile: https://github.com/ksAutotests
