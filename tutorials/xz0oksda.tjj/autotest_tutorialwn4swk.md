@@ -1,7 +1,7 @@
 ---
 title: autotest84L0e6
 description: autotestlS1KI2_12/19/2019 12:31:36 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 740
 author_profile: https://github.com/ksAutotests
