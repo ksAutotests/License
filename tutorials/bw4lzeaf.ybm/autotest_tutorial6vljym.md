@@ -1,7 +1,7 @@
 ---
 title: autotestc40ol2
 description: autotest1527b1_1/11/2020 10:23:26 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 218
 author_profile: https://github.com/ksAutotests
