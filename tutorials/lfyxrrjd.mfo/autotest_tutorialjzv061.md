@@ -1,7 +1,7 @@
 ---
 title: autotest4tI6IB
 description: autotestTKr518_1/13/2020 10:18:34 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 4
 author_profile: https://github.com/ksAutotests
