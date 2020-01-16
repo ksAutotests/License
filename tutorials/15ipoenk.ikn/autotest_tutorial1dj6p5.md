@@ -1,7 +1,7 @@
 ---
 title: autotesth1B022
 description: autotest0P0th5_1/16/2020 11:09:50 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 642
 author_profile: https://github.com/ksAutotests
