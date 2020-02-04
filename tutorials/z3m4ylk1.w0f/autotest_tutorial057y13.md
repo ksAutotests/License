@@ -1,7 +1,7 @@
 ---
 title: autotestm1613t
 description: autotestKyQ878_2/4/2020 11:04:12 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 722
 author_profile: https://github.com/ksAutotests
