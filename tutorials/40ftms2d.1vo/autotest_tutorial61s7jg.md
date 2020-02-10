@@ -1,7 +1,7 @@
 ---
 title: autotest4vM7J8
 description: autotestBsB5B3_2/10/2020 3:55:12 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 489
 author_profile: https://github.com/ksAutotests
