@@ -1,7 +1,7 @@
 ---
 title: autotest3b531A
 description: autotesth02I66_2/27/2020 2:01:37 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 137
 author_profile: https://github.com/ksAutotests
