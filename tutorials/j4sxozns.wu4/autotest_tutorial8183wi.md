@@ -1,7 +1,7 @@
 ---
 title: autotest7555pu
 description: autotestw3LaDt_3/3/2020 3:33:15 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 809
 author_profile: https://github.com/ksAutotests
