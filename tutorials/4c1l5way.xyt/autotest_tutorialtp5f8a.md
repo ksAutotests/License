@@ -1,7 +1,7 @@
 ---
 title: autotestD7B4Eg
 description: autotestu71O01_3/5/2020 11:12:34 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 437
 author_profile: https://github.com/ksAutotests
