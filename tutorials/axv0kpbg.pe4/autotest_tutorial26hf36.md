@@ -1,7 +1,7 @@
 ---
 title: autotestT0z4E4
 description: autotestz81021_3/5/2020 4:18:55 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 783
 author_profile: https://github.com/ksAutotests
