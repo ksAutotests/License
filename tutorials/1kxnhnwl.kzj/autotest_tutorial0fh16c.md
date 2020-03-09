@@ -1,7 +1,7 @@
 ---
 title: autotestt71i45
 description: autotest56O6xT_3/9/2020 8:22:40 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 636
 author_profile: https://github.com/ksAutotests
