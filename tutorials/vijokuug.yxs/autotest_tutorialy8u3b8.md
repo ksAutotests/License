@@ -1,0 +1,32 @@
+---
+title: autotest8w6s87
+description: autotest1M66CC_3/15/2020 12:06:27 AM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+primary_tag: tutorial:product/sapHana
+time: 374
+author_profile: https://github.com/ksAutotests
+author_name: ksAutotests
+---
+### You will learn
+- You will learn this
+- and that
+
+autotest tutorial texteB7k5n
+
+## Prerequisites
+- Prerequisute1
+- Prerequisute2
+- Prerequisute3
+
+[ACCORDION-BEGIN [](First step)]
+[DONE]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [](Second step)]
+[DONE]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [](Third step)]
+[DONE]
+[ACCORDION-END]
+
