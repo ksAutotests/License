@@ -1,7 +1,7 @@
 ---
 title: autotesta15To6
 description: autotestWa4WR8_3/25/2020 12:48:50 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 384
 author_profile: https://github.com/ksAutotests
