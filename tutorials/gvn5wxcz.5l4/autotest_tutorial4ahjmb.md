@@ -1,7 +1,7 @@
 ---
 title: autotest1TURql
 description: autotestm1TMH6_4/5/2020 5:55:57 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 717
 author_profile: https://github.com/ksAutotests
