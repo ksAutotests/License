@@ -1,7 +1,7 @@
 ---
 title: autotest5223c5
 description: autotestT8Pnm2_4/21/2020 12:15:59 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 827
 author_profile: https://github.com/ksAutotests
