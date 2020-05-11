@@ -1,7 +1,7 @@
 ---
 title: autotestxBeBY0
 description: autotest0liTtk_5/11/2020 7:04:14 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 687
 author_profile: https://github.com/ksAutotests
