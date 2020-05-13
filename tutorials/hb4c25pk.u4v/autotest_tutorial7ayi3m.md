@@ -1,7 +1,7 @@
 ---
 title: autotest501G25
 description: autotestp36EZH_5/13/2020 12:03:27 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 610
 author_profile: https://github.com/ksAutotests
