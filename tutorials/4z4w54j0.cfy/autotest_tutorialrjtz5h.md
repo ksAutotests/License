@@ -1,7 +1,7 @@
 ---
 title: autotestLb1Y4E
 description: autotestgU3U2o_5/19/2020 12:22:08 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 109
 author_profile: https://github.com/ksAutotests
