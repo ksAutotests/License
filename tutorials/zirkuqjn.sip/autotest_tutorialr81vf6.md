@@ -1,7 +1,7 @@
 ---
 title: autotestjeP088
 description: autotestnI6z3Q_5/21/2020 10:43:52 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 700
 author_profile: https://github.com/ksAutotests
