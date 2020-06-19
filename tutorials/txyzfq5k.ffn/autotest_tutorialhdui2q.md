@@ -1,7 +1,7 @@
 ---
 title: autotestM2k4t6
 description: autotest4735vD_6/19/2020 7:46:53 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 900
 author_profile: https://github.com/ksAutotests
