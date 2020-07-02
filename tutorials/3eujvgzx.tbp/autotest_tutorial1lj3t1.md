@@ -1,7 +1,7 @@
 ---
 title: autotestcY6kiI
 description: autotest8G3g37_7/2/2020 10:29:20 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 913
 author_profile: https://github.com/ksAutotests
