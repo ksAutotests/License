@@ -1,7 +1,7 @@
 ---
 title: autotest3kB577
 description: autotest82c3F7_7/4/2020 1:26:21 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 136
 author_profile: https://github.com/ksAutotests
