@@ -1,7 +1,7 @@
 ---
 title: autotestvF25n6
 description: autotestM27D13_7/10/2020 7:41:53 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 35
 author_profile: https://github.com/ksAutotests
