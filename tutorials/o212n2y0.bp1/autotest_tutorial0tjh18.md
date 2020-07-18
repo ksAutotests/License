@@ -1,7 +1,7 @@
 ---
 title: autotestT1Uo8W
 description: autotest87FF46_7/18/2020 5:05:37 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 483
 author_profile: https://github.com/ksAutotests
