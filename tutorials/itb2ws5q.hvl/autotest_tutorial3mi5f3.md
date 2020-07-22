@@ -1,7 +1,7 @@
 ---
 title: autotest631p52
 description: autotestz6qi61_7/22/2020 8:11:29 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 205
 author_profile: https://github.com/ksAutotests
