@@ -1,7 +1,7 @@
 ---
 title: autotestJ82aw7
 description: autotest8D2Jq3_7/28/2020 4:40:16 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 425
 author_profile: https://github.com/ksAutotests
