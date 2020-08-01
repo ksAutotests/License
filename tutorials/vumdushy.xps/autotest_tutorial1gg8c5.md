@@ -1,7 +1,7 @@
 ---
 title: autotest1JM5sF
 description: autotest543018_8/1/2020 9:58:30 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 569
 author_profile: https://github.com/ksAutotests
