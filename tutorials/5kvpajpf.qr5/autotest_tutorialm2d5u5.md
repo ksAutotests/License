@@ -1,7 +1,7 @@
 ---
 title: autotest8Rh486
 description: autotest0fGtL6_8/13/2020 2:47:28 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 440
 author_profile: https://github.com/ksAutotests
