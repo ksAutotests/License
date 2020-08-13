@@ -1,7 +1,7 @@
 ---
 title: autotest2140o1
 description: autotesty3z414_8/13/2020 2:56:41 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 954
 author_profile: https://github.com/ksAutotests
