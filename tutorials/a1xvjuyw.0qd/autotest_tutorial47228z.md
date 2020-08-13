@@ -1,7 +1,7 @@
 ---
 title: autotest2TDU3f
 description: autotest5sKk3S_8/13/2020 6:36:41 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 505
 author_profile: https://github.com/ksAutotests
