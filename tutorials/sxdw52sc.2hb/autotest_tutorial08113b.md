@@ -1,7 +1,7 @@
 ---
 title: autotestgN30Wy
 description: autotest12CXN3_8/18/2020 2:16:07 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 654
 author_profile: https://github.com/ksAutotests
