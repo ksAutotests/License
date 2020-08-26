@@ -1,7 +1,7 @@
 ---
 title: autotest5W2051
 description: autotest1XO361_8/26/2020 5:34:27 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 691
 author_profile: https://github.com/ksAutotests
