@@ -1,7 +1,7 @@
 ---
 title: autotestURtIc2
 description: autotestXM10oB_8/29/2020 6:05:17 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 357
 author_profile: https://github.com/ksAutotests
