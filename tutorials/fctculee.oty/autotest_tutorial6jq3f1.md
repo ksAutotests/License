@@ -1,7 +1,7 @@
 ---
 title: autotestp5V25a
 description: autotest3b3388_9/1/2020 9:39:01 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 243
 author_profile: https://github.com/ksAutotests
