@@ -1,7 +1,7 @@
 ---
 title: autotest8t7648
 description: autotest83d164_9/2/2020 1:55:23 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 747
 author_profile: https://github.com/ksAutotests
