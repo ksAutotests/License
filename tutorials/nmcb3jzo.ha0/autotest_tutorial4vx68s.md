@@ -1,7 +1,7 @@
 ---
 title: autotestZh62Cf
 description: autotest7Y3TW3_9/5/2020 8:45:10 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 103
 author_profile: https://github.com/ksAutotests
