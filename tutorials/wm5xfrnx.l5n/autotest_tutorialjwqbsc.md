@@ -1,7 +1,7 @@
 ---
 title: autotest13xB0o
 description: autotest36UTm7_9/29/2020 12:43:00 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 179
 author_profile: https://github.com/ksAutotests
