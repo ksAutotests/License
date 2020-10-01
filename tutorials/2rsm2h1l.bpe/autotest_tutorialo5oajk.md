@@ -1,7 +1,7 @@
 ---
 title: autotesth4EuI1
 description: autotest7SgtPp_10/1/2020 12:20:01 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 994
 author_profile: https://github.com/ksAutotests
