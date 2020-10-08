@@ -1,7 +1,7 @@
 ---
 title: autotestnlg3K2
 description: autotestnN4BQn_10/8/2020 2:20:30 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 761
 author_profile: https://github.com/ksAutotests
