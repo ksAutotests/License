@@ -1,7 +1,7 @@
 ---
 title: autotest75813q
 description: autotestEmQ0i0_10/15/2020 4:46:56 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 146
 author_profile: https://github.com/ksAutotests
