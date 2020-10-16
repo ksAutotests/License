@@ -1,7 +1,7 @@
 ---
 title: autotest1SF745
 description: autotest1Pa2A1_10/16/2020 10:48:56 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 444
 author_profile: https://github.com/ksAutotests
