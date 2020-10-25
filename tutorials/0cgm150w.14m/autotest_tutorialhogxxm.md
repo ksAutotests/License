@@ -1,7 +1,7 @@
 ---
 title: autotesth3702e
 description: autotestdH2L3p_10/25/2020 6:40:38 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 115
 author_profile: https://github.com/ksAutotests
