@@ -1,7 +1,7 @@
 ---
 title: autotestr80Edz
 description: autotest06W5r0_11/4/2020 11:33:28 PM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 478
 author_profile: https://github.com/ksAutotests
