@@ -1,7 +1,7 @@
 ---
 title: autotestz6PoE4
 description: autotest2n551r_11/12/2020 6:08:13 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 187
 author_profile: https://github.com/ksAutotests
