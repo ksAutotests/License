@@ -1,7 +1,7 @@
 ---
 title: autotest2G7bn2
 description: autotest5XO5ML_11/15/2020 5:08:54 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 478
 author_profile: https://github.com/ksAutotests
