@@ -1,7 +1,7 @@
 ---
 title: autotest71UFh4
 description: autotest4763FB_11/23/2020 4:59:54 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 111
 author_profile: https://github.com/ksAutotests
