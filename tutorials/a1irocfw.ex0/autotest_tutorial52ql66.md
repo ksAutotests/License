@@ -1,7 +1,7 @@
 ---
 title: autotestSX20r6
 description: autotest61prX0_12/13/2020 5:31:16 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 471
 author_profile: https://github.com/ksAutotests
