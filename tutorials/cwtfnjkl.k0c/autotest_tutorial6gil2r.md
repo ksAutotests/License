@@ -1,7 +1,7 @@
 ---
 title: autotest4idpZ2
 description: autotest7tMqX4_1/14/2021 1:41:18 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced,tutorial:license]
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
 primary_tag: tutorial:product/sapHana
 time: 241
 author_profile: https://github.com/ksAutotests
